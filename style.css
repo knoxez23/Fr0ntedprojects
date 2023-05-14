@@ -26,11 +26,11 @@ img {
     border-radius: 15px;
 }
 
-.bold-text {
+h1 {
     font-weight: 700;
 }
 
-.fadeout-text {
+.description {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
